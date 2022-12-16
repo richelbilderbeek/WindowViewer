@@ -16,10 +16,8 @@ and [VCL](CppVcl.htm)
 
  * [View a screenshot of 'WindowViewer'](ToolWindowViewerScreenshot.PNG)
  * [Download the 'WindowViewer' Windows executable (version 1.0)(zip)](ToolWindowViewerExe.zip)
- * [Download the 'WindowViewer' source code (version 1.0)(zip)](ToolWindowViewerSource.zip)
-
-Why did it fail?
-----------------
+ 
+## Why did it fail?
 
 I attempted to use [WindowViewer](ToolWindowViewer.htm) to view all the
 hidden windows the Windows Task Manager makes you aware of.
