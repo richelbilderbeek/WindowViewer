@@ -14,8 +14,9 @@ Builder](https://github.com/richelbilderbeek/cpp/blob/master/content/CppBuilder.
 and [VCL](CppVcl.htm)
 [libraries](https://github.com/richelbilderbeek/cpp/blob/master/content/CppLibrary.md).
 
- * [View a screenshot of 'WindowViewer'](ToolWindowViewerScreenshot.PNG)
  * [Download the 'WindowViewer' Windows executable (version 1.0)(zip)](ToolWindowViewerExe.zip)
+
+![A screenshot of 'WindowViewer'](ToolWindowViewerScreenshot.PNG)
  
 ## Why did it fail?
 
