@@ -1,9 +1,9 @@
 # WindowViewer
 
-[WindowViewer](ToolWindowViewer.htm) is a failed attempt to capture all
+[WindowViewer](https://github/com/richelbilderbeek/WindowViewer.htm) is a failed attempt to capture all
 Windows windows as bitmaps.
  
-[WindowViewer](ToolWindowViewer.htm) was released on the 6th of Fubruary
+[WindowViewer](https://github/com/richelbilderbeek/WindowViewer.htm) was released on the 6th of February
 of 2010 and programmed in [C++](Cpp.htm) using the
 [IDE](https://github.com/richelbilderbeek/cpp/blob/master/content/CppIde.md)
 [C++
@@ -11,7 +11,7 @@ Builder](https://github.com/richelbilderbeek/cpp/blob/master/content/CppBuilder.
 6.0. It uses the
 [STL](https://github.com/richelbilderbeek/cpp/blob/master/content/CppStl.md),
 [Boost](https://github.com/richelbilderbeek/cpp/blob/master/content/CppBoost.md)
-and [VCL](CppVcl.htm)
+and [VCL](https://github.com/richelbilderbeek/cpp/blob/master/content/CppVcl.htm)
 [libraries](https://github.com/richelbilderbeek/cpp/blob/master/content/CppLibrary.md).
 
  * [Download the 'WindowViewer' Windows executable (version 1.0)(zip)](ToolWindowViewerExe.zip)
