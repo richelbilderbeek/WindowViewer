@@ -1,17 +1,17 @@
 # WindowViewer
 
-[WindowViewer](https://github/com/richelbilderbeek/WindowViewer.htm) is a failed attempt to capture all
+WindowViewer is a failed attempt to capture all
 Windows windows as bitmaps.
  
 [WindowViewer](https://github/com/richelbilderbeek/WindowViewer.htm) was released on the 6th of February
-of 2010 and programmed in [C++](Cpp.htm) using the
+of 2010 and programmed in C++](https://github.com/richelbilderbeek/cpp) using the
 [IDE](https://github.com/richelbilderbeek/cpp/blob/master/content/CppIde.md)
 [C++
 Builder](https://github.com/richelbilderbeek/cpp/blob/master/content/CppBuilder.md)
 6.0. It uses the
 [STL](https://github.com/richelbilderbeek/cpp/blob/master/content/CppStl.md),
 [Boost](https://github.com/richelbilderbeek/cpp/blob/master/content/CppBoost.md)
-and [VCL](https://github.com/richelbilderbeek/cpp/blob/master/content/CppVcl.htm)
+and [VCL](https://github.com/richelbilderbeek/cpp/blob/master/content/CppVcl.md)
 [libraries](https://github.com/richelbilderbeek/cpp/blob/master/content/CppLibrary.md).
 
  * [Download the 'WindowViewer' Windows executable (version 1.0)(zip)](ToolWindowViewerExe.zip)
@@ -20,9 +20,9 @@ and [VCL](https://github.com/richelbilderbeek/cpp/blob/master/content/CppVcl.htm
  
 ## Why did it fail?
 
-I attempted to use [WindowViewer](ToolWindowViewer.htm) to view all the
+I attempted to use WindowViewer to view all the
 hidden windows the Windows Task Manager makes you aware of.
-[WindowViewer](ToolWindowViewer.htm) does not show those: at the
+WindowViewer does not show those: at the
 location of where this hidden window is, it obtains the bitmap of what
 is visible there.
 
